@@ -1,6 +1,6 @@
 # Contributing
 
-**Thank you for your interest in this project. Your contributions are highly welcome.**
+**Thank you for your interest in this project. We welcome your contributions.**
 
 There are multiple ways of getting involved:
 
@@ -8,8 +8,7 @@ There are multiple ways of getting involved:
 - [Suggest a feature](#suggest-a-feature) 
 - [Alter/add code](#alter/add-code) 
 
-Below are a few guidelines we would like you to follow.
-If you need help, please reach out to us by opening an issue.
+Below are a few guidelines we'd like you to follow. If you need help, please reach out to us by opening an issue.
 
 ## Report a bug 
 
