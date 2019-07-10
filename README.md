@@ -1,8 +1,8 @@
 # New Project Template
 
-This project contains all the files that any open source LevelUp project should have.
+This project contains all the files that any open source LevelUp/Grubhub project should have.
 
-See (link to doc we are writing) for more information about how to release a new open source LevelUp project.
+[See this document](https://docs.google.com/document/d/1Asabrw9rv08w-dPYwjEZ2jesz_R34w6_DgYk5zFfEXM/edit#) for more information about how to release a new open source LevelUp project.
 
 This template uses the Apache license, as that is LevelUp's default. 
 
