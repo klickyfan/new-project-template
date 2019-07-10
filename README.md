@@ -4,7 +4,7 @@ This project contains all the files that any open source LevelUp/Grubhub project
 
 [See this document](https://docs.google.com/document/d/1Asabrw9rv08w-dPYwjEZ2jesz_R34w6_DgYk5zFfEXM/edit#) for more information about how to release a new open source LevelUp project.
 
-This template uses the Apache license, as that is LevelUp's default. 
+This template uses the Apache license, as that is LevelUp/Grubhub's default. 
 
 ## How to use this template
 
